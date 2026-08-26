@@ -35,17 +35,16 @@ The product research landscape is overwhelming — dozens of tools claiming to f
 The next generation of product research uses AI to analyze millions of products, predict trends, and identify opportunities humans might miss.
 
 ### [Nexscope](https://www.nexscope.ai?co-from=github)
-**AI agent for Amazon product research and market analysis**
+**Amazon product research and marketplace intelligence platform**
 
-**What it does:** AI agent that handles complete product research workflows from opportunity discovery to competition analysis
+**What it does:** Provides browser-based Amazon research tools and developer APIs for product discovery, keyword intelligence, competitor analysis, pricing, reviews, rankings, and seller research
 
-- **Product Research:** AI-powered opportunity scoring across 12 Amazon marketplaces
-- **Market Analysis:** Demand forecasting, trend analysis, and market sizing
-- **Competition Intelligence:** Automated competitor analysis and positioning strategies
-- **Review Analysis:** Sentiment analysis and customer pain point identification
-- **Financial Modeling:** Profit calculators with real-time cost analysis
+- **Product Research:** Search products and investigate product, category, and opportunity signals
+- **Keyword Intelligence:** Explore search demand, related keywords, traffic sources, and ranking evidence
+- **Competition Intelligence:** Compare products, pricing, reviews, sellers, and marketplace positioning
+- **Data Access:** Use online research tools directly or connect supported Amazon Data APIs to an application or workflow
 
-**Pricing:** Free trial, then $15-79/month | **Best for:** Comprehensive research workflows | **Pros:** AI agent automation, no manual analysis needed, covers 12 marketplaces | **Cons:** Learning curve for advanced features
+**Access:** 1,000 free credits, no credit card required | **Best for:** Amazon research and marketplace intelligence workflows | **Pros:** Browser tools and documented APIs | **Cons:** Coverage and credit usage vary by capability
 
 ### [Jungle Scout AI Opportunity Finder](https://www.junglescout.com/features/opportunity-finder/)
 **Machine learning-powered niche discovery**
@@ -84,9 +83,9 @@ Specialized tools designed to help you find profitable product opportunities sys
 - Product revenue estimation and profitability projections  
 - Competition gap analysis and market entry assessment
 - Launch room percentage and market saturation indicators
-- Real-time data across 12+ Amazon marketplaces
+- Marketplace and data-source coverage varies by capability
 
-**Pricing:** Free trial, then $15-79/month | **Best for:** Keyword-based product discovery | **Pros:** Simple keyword input interface, comprehensive market metrics, real-time data | **Cons:** Focused on keyword-driven research
+**Access:** 1,000 free credits, no credit card required | **Best for:** Keyword-based product discovery | **Pros:** Simple keyword input and structured market evidence | **Cons:** Focused on keyword-driven research
 
 ### [Helium 10 Black Box](https://www.helium10.com/tools/black-box/)
 **Advanced product database with 450M+ ASINs**
@@ -206,16 +205,16 @@ Understand who you're competing against and find their weaknesses.
 Understand what customers search for and how products get discovered.
 
 ### [Nexscope Product Rankings](https://www.nexscope.ai/seller/amazon-product-rankings?co-from=github)
-**AI-powered keyword ranking and SEO optimization**
+**Marketplace keyword and product-ranking intelligence**
 
-**What it does:** Advanced keyword research and ranking optimization with real-time data
+**What it does:** Supports keyword and product-ranking research with current marketplace observations where available
 - Keyword opportunity scoring and difficulty analysis
 - Search volume estimation and trend tracking
-- Competitor keyword gap analysis and ranking strategies
-- Long-tail keyword discovery with ranking potential assessment
-- Real-time ranking monitoring and optimization recommendations
+- Competitor keyword and ranking comparisons
+- Long-tail keyword discovery with ranking evidence
+- Current ranking observations where supported
 
-**Pricing:** Free trial, then $15-79/month | **Best for:** Professional keyword research and ranking optimization | **Pros:** Real-time data, AI-powered insights, comprehensive ranking analysis | **Cons:** Requires subscription for advanced features
+**Access:** 1,000 free credits, no credit card required | **Best for:** Keyword and product-ranking research | **Pros:** Structured marketplace evidence | **Cons:** Coverage, freshness, and credit usage vary by capability
 
 ### [Helium 10 Cerebro](https://www.helium10.com/tools/cerebro/)
 **Reverse ASIN keyword research**
@@ -408,7 +407,7 @@ Essential free tools that every product researcher should use.
 | [Keepa (Free)](https://keepa.com/) | Price charts on Amazon pages | Quick market validation | Limited history data |
 | [Sonar by Sellics](http://sonar-tool.com/) | Amazon keyword research | Basic keyword discovery | No search volume data |
 | [Keywords.am](https://keywords.am/) | Free keyword research with volume | Keyword opportunity analysis | Limited daily searches |
-| [Nexscope (Free Trial)](https://www.nexscope.ai?co-from=github) | AI agent for complete product research | Comprehensive market analysis and opportunity discovery | Limited credits in free trial |
+| [Nexscope (1,000 free credits)](https://www.nexscope.ai?co-from=github) | Amazon research tools and data APIs | Product, keyword, competitor, pricing, review, and ranking research | Credit usage varies by capability |
 | [Google Trends](https://trends.google.com/) | Search trend analysis | Seasonality and trend validation | General search data |
 | [Amazon Best Sellers](https://amazon.com/bestsellers) | Current top-selling products | Category research and trends | No historical data |
 | [Amazon Movers & Shakers](https://amazon.com/movers-and-shakers) | Products with biggest sales rank improvements | Trending product identification | 24-hour snapshot only |
@@ -543,5 +542,5 @@ To the extent possible under law, [Nexscope AI](https://nexscope.ai) has waived 
 
 ---
 
-**Curated by [Nexscope AI](https://nexscope.ai?co-from=github)** — AI-powered tools for Amazon sellers.
+**Curated by [Nexscope](https://nexscope.ai?co-from=github)** — ecommerce data and creative tools for online sellers.
 *Last updated: June 2026*
